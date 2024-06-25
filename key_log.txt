@@ -1,0 +1,1 @@
+Key.shift'h''e''l''l''o'Key.space'w''o''r''l''d'Key.backspaceKey.backspaceKey.backspaceKey.backspaceKey.shift'j''a''v''a'
